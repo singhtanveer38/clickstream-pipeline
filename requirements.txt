@@ -1,0 +1,7 @@
+Faker==19.2.0
+kafka-python==2.0.2
+psycopg2==2.9.6
+py4j==0.10.9.7
+pyspark==3.4.1
+python-dateutil==2.8.2
+six==1.16.0
